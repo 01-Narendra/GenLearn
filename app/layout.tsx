@@ -8,7 +8,7 @@ const inter = Outfit({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "GenLearn",
   description:
-    "AI Course Generator is a platform that allows users to easily create and generate educational courses using artificial intelligence. By simply entering course details like name, duration, number of chapters, and specifying if videos are included, AI generates the entire course structure along with relevant YouTube videos for each chapter.",
+    "GenLearn is a platform that allows users to easily create and generate educational courses using artificial intelligence. By simply entering course details like name, duration, number of chapters, and specifying if videos are included, AI generates the entire course structure along with relevant YouTube videos for each chapter.",
 };
 
 export default function RootLayout({
